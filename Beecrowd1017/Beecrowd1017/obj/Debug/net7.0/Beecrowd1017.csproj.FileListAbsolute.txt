@@ -1,0 +1,15 @@
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/bin/Debug/net7.0/Beecrowd1017
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/bin/Debug/net7.0/Beecrowd1017.deps.json
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/bin/Debug/net7.0/Beecrowd1017.runtimeconfig.json
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/bin/Debug/net7.0/Beecrowd1017.dll
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/bin/Debug/net7.0/Beecrowd1017.pdb
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.csproj.AssemblyReference.cache
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.AssemblyInfoInputs.cache
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.AssemblyInfo.cs
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.csproj.CoreCompileInputs.cache
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.dll
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/refint/Beecrowd1017.dll
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.pdb
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/Beecrowd1017.genruntimeconfig.cache
+/Users/juaneverstone/Documents/Programação/C# Primeiros Passos - Lógica de Programação/Exercícios beecrowd/Beecrowd1017/Beecrowd1017/obj/Debug/net7.0/ref/Beecrowd1017.dll
